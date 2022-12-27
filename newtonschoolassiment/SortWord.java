@@ -1,3 +1,5 @@
+package newtonschoolassiment;
+package Newtonschoolassiment;
 // Sort Words
 // easy
 // Time Limit: 2 sec

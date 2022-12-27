@@ -1,3 +1,5 @@
+package newtonschoolassiment;
+package Newtonschoolassiment;
 // Insert node at the tail
 // easy
 // asked in interviews by 1 company
